@@ -206,12 +206,12 @@ export default ({ children, location }) => {
             <meta charSet="utf-8" />
             <meta name="description" content="Conectamos clientes con propiedades. Optimiza, gestiona y vende más. La nueva plataforma inmobiliaria que te ayuda a optimizar tu tiempo de trabajo y obtener mejores resultados. Pruébalo gratis por 15 días." />
             <meta name="keywords" content="clasihome, clasipro, clasihome propiedades chile, tecnología chile, software" />
-            <title>Clasihome - Software Inmobilario de Chile</title>
+            <title>Esenios Propiedades</title>
             <link rel="canonical" href="https://clasihome.com/" />
             <meta property="og:url" content="https://clasihome.com/" />
-            <meta property="og:title" content="Clasihome - Software Inmobilario de Chile" />
+            <meta property="og:title" content="Esenios Propiedades" />
             <meta property="og:description" content="Conectamos clientes con propiedades. Optimiza, gestiona y vende más. La nueva plataforma inmobiliaria que te ayuda a optimizar tu tiempo de trabajo y obtener mejores resultados. Pruébalo gratis por 15 días." />
-            <meta property="og:image" content="https://clasihome.com/logotipo_full.png" />
+            <meta property="og:image" content="https://d3vbvabr0utw5z.cloudfront.net/public/builder-files/62d834238652550009a09015/1658981038312.png" />
             <meta name="og:type" content="website" />
             <meta name="theme-color" content={data.data.primaryColor} /> 
           </Helmet>                       

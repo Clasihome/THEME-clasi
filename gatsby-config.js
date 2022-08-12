@@ -4,7 +4,7 @@ require('dotenv').config({
 
 module.exports = {
   siteMetadata: {
-    title: "clasi",
+    title: "Clasi",
     siteUrl: "https://clasihome.com"
   },
   plugins: [
